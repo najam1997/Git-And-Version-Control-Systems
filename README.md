@@ -8,6 +8,6 @@ Started: 1st June 2024
    ❌ : Incomplete  
    ⭕ : In progress  
 
-## Week 1 ():
+## Week 1 (Basics):
 ### Day 1:
-- [✔️] [Active Directory Basics](https://tryhackme.com/module/hacking-active-directory)
+- [✔️] [Learn Github Basics](https://docs.github.com/en/get-started/start-your-journey)
