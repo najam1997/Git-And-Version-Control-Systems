@@ -1,4 +1,4 @@
-# Conquering Git-And-Version-Control-Systems
+# Conquering Git And Version Control Systems
 Making this repository for learning Git and the Version Control Systems that use it, such as Github and Gitlab etc.  
 
 Started: 1st June 2024
