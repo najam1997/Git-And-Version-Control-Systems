@@ -10,8 +10,8 @@ Started: 28th June 2024
 
 ## Week 1 (Basics):
 ### Day 1:
-- [✔️] [Learn Github Basics](https://docs.github.com/en/get-started/start-your-journey)
+- [✔️] [Learn Github Basics Part 1](https://docs.github.com/en/get-started/start-your-journey)
 ### Day 2:
-- [⭕]
+- [✔️] [Learn Github Basics Part 2](https://docs.github.com/en/get-started/learning-about-github)
 ### Day 3:
 - [⭕]
