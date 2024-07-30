@@ -11,3 +11,7 @@ Started: 1st June 2024
 ## Week 1 (Basics):
 ### Day 1:
 - [✔️] [Learn Github Basics](https://docs.github.com/en/get-started/start-your-journey)
+### Day 2:
+- [⭕]
+### Day 3:
+- [⭕]
