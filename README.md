@@ -15,3 +15,5 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 2](https://docs.github.com/en/get-started/learning-about-github)
 ### Day 3:
 - [⭕]
+### Day 4:
+- [⭕]
