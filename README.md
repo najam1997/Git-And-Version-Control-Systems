@@ -17,3 +17,5 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 3](https://docs.github.com/en/get-started/onboarding)
 ### Day 4:
 - [⭕]
+### Day 5:
+- [⭕]
