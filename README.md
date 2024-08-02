@@ -18,7 +18,7 @@ Started: 28th June 2024
 ### Day 4:
 - [✔️] [Learn Github Basics Part 4](https://docs.github.com/en/get-started/using-github)
 ### Day 5:
-- [⭕] [Learn Github Basics Part 5](https://docs.github.com/en/get-started/accessibility)
+- [✔️] [Learn Github Basics Part 5](https://docs.github.com/en/get-started/accessibility)
 - [⭕] []()
 ### Day 6:
 - [⭕] []()
