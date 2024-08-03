@@ -25,9 +25,9 @@ Started: 28th June 2024
 - [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)   
    ◼️ Commands mentioned here to be revised before proceeding.
 ### Day 7:
-- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
 - [✔️] [Learn Github Basics Part 7.1](https://docs.github.com/en/get-started/exploring-integrations)
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
 - [✔️] [Learn Github Basics Part 7.3](https://docs.github.com/en/get-started/using-github-docs)
 - [✔️] [Learn Github Basics Part 7.4](https://docs.github.com/en/get-started/archiving-your-github-personal-account-and-public-repositories)
+- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
 ## Week 2 (Basics):
