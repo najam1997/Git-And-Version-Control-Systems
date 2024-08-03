@@ -7,7 +7,8 @@ Started: 28th June 2024
    ✔️ : Completed  
    ❌ : Incomplete  
    ⭕ : In progress  
-
+   ◼️ : Notes Git  
+   ◻️ : Notes VCS  
 ## Week 1 (Basics):
 ### Day 1:
 - [✔️] [Learn Github Basics Part 1](https://docs.github.com/en/get-started/start-your-journey)
@@ -21,6 +22,9 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 5](https://docs.github.com/en/get-started/accessibility)
 - [✔️] [Learn Github Basics Part 6](https://docs.github.com/en/get-started/exploring-projects-on-github)
 ### Day 6:
-- [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)
+- [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)   
+   ◼️ Commands mentioned here to be revised before proceeding.
 ### Day 7:
+- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
 - [⭕] []()
+## Week 2 (Basics):
