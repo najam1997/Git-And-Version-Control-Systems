@@ -22,4 +22,5 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 6](https://docs.github.com/en/get-started/exploring-projects-on-github)
 ### Day 6:
 - [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)
+### Day 7:
 - [⭕] []()
