@@ -22,7 +22,8 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 5](https://docs.github.com/en/get-started/accessibility)
 - [✔️] [Learn Github Basics Part 6](https://docs.github.com/en/get-started/exploring-projects-on-github)
 ### Day 6:
-
+- [✔️] [Learn Gitlab Basics Part 1](https://www.youtube.com/watch?v=7q9Y1Cv-ib0)
+- [✔️] [Learn Gitlab Basics Part 2]()
 ### Day 7:
 - [✔️] [Learn Github Basics Part 7.1](https://docs.github.com/en/get-started/exploring-integrations)
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
