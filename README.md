@@ -22,8 +22,7 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 5](https://docs.github.com/en/get-started/accessibility)
 - [✔️] [Learn Github Basics Part 6](https://docs.github.com/en/get-started/exploring-projects-on-github)
 ### Day 6:
-- [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)   
-   ◼️ Commands mentioned here to be revised before proceeding.
+
 ### Day 7:
 - [✔️] [Learn Github Basics Part 7.1](https://docs.github.com/en/get-started/exploring-integrations)
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
@@ -31,4 +30,6 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 7.4](https://docs.github.com/en/get-started/archiving-your-github-personal-account-and-public-repositories)
 ## Week 2 (Basics):
 ### Day 8:
-- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
+- [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)
+- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)   
+   ◼️ Commands mentioned here to be revised before proceeding.
