@@ -29,5 +29,6 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
 - [✔️] [Learn Github Basics Part 7.3](https://docs.github.com/en/get-started/using-github-docs)
 - [✔️] [Learn Github Basics Part 7.4](https://docs.github.com/en/get-started/archiving-your-github-personal-account-and-public-repositories)
-- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
 ## Week 2 (Basics):
+### Day 8:
+- [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)
