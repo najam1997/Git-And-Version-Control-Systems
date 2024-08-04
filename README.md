@@ -25,6 +25,7 @@ Started: 28th June 2024
 - [✔️] [Learn Gitlab Basics Part 1](https://www.youtube.com/watch?v=7q9Y1Cv-ib0)
 - [✔️] [Learn Gitlab Basics Part 2](https://www.youtube.com/watch?v=M7rBDZYsx8U&list=PLFGfElNsQthYDx0A_FaNNfUm9NHsK6zED&index=193)
 - [✔️] [Learn Gitlab Basics Part 3](https://www.youtube.com/watch?v=jYQSH4EY6_U&list=PLFGfElNsQthYDx0A_FaNNfUm9NHsK6zED&index=175)
+- [✔️] [Learn Gitlab Basics Part 4](https://www.youtube.com/watch?v=LDVQXv3I5rI)
 ### Day 7:
 - [✔️] [Learn Github Basics Part 7.1](https://docs.github.com/en/get-started/exploring-integrations)
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
