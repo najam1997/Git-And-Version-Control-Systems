@@ -38,4 +38,4 @@ Started: 28th June 2024
 - [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)   
    ◼️ Commands mentioned here to be revised before proceeding.
 ### Day 9:
-- [⭕] []()
+- [⭕] [GitLab with Git Essentials](https://docs.gitlab.com/ee/tutorials/gitlab_navigation.html)
