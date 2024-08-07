@@ -41,3 +41,5 @@ Started: 28th June 2024
 - [✔️] [GitLab with Git Essentials](https://docs.gitlab.com/ee/tutorials/gitlab_navigation.html)
 ### Day 10:
 - [✔️] [Github Repository Basics 1](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+### Day 11:
+- [✔️] [Github Repository Basics 2](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
