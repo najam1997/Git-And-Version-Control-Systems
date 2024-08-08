@@ -42,4 +42,6 @@ Started: 28th June 2024
 ### Day 10:
 - [✔️] [Github Repository Basics 1](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 11:
-- [✔️] [Github Repository Basics 2](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [⭕] [Github Repository Basics 2](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+### Day 12:
+- [⭕] []()
