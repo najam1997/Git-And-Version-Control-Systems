@@ -44,11 +44,11 @@ Started: 28th June 2024
 ### Day 11:
 - [✔️] [Github Repository Basics 2](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 12:
-- [⭕] [Github Repository Practice](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [✔️] [Github Repository Basics 3](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 13:
-- [⭕] []()
+- [✔️] [Github Repository Basics 4](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 14:
-- [⭕] []()
+- [✔️] [Github Repository Basics 5](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ## Week 3 ():
 ### Day 15:
 - [⭕] []()
