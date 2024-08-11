@@ -32,7 +32,7 @@ Started: 28th June 2024
 - [✔️] [Learn Github Basics Part 7.2](https://docs.github.com/en/get-started/showcase-your-expertise-with-github-certifications)
 - [✔️] [Learn Github Basics Part 7.3](https://docs.github.com/en/get-started/using-github-docs)
 - [✔️] [Learn Github Basics Part 7.4](https://docs.github.com/en/get-started/archiving-your-github-personal-account-and-public-repositories)
-## Week 2 (Basics):
+## Week 2 (Git and Repository Basics):
 ### Day 8:
 - [⭕] [Learn Git Basics Part 1](https://docs.github.com/en/get-started/getting-started-with-git)
 - [⭕] [Learn Git Basics Part 2](https://docs.github.com/en/get-started/using-git)   
@@ -46,4 +46,9 @@ Started: 28th June 2024
 ### Day 12:
 - [⭕] [Github Repository Practice](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 13:
+- [⭕] []()
+### Day 14:
+- [⭕] []()
+## Week 3 ():
+### Day 8:
 - [⭕] []()
