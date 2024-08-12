@@ -48,7 +48,9 @@ Started: 28th June 2024
 ### Day 13:
 - [✔️] [Github Repository Basics 4](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ### Day 14:
-- [✔️] [Github Repository Basics 5](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [⭕] [Github Repository Basics 5](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
 ## Week 3 ():
 ### Day 15:
+- [⭕] []()
+### Day 16:
 - [⭕] []()
