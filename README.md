@@ -51,7 +51,7 @@ Started: 28th June 2024
 - [✔️] [Github Repository Basics 5](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ## Week 3 ():
 ### Day 15:
-- [⭕] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
+- [✔️] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ### Day 16:
 - [⭕] []()
 ### Day 17:
