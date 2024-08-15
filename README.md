@@ -53,8 +53,10 @@ Started: 28th June 2024
 ### Day 15:
 - [✔️] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ### Day 16:
-- [⭕] []()
+- [✔️] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ### Day 17:
 - [⭕] []()
 ### Day 18:
+- [⭕] []()
+### Day 19:
 - [⭕] []()
