@@ -53,11 +53,11 @@ Started: 28th July 2024
 ### Day 15:
 - [✔️] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ### Day 16:
-- [✔️] [Github Repository Basics 6](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
+- [✔️] [Github Repository Basics 7](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features)
 ### Day 17:
-- [⭕] []()
+- [✔️] Practiced some of the Repository basics learnt so far.
 ### Day 18:
-- [⭕] []()
+- [✔️] [Github Repository Basics 8](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/configuring-pull-request-merges)
 ### Day 19:
 - [⭕] []()
 ### Day 20:
@@ -66,4 +66,8 @@ Started: 28th July 2024
 - [⭕] []()
 ## Week 4 ():
 ### Day 22:
+- [⭕] []()
+### Day 23:
+- [⭕] []()
+### Day 24:
 - [⭕] []()
