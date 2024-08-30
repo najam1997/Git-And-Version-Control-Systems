@@ -61,7 +61,7 @@ Started: 28th July 2024
 ### Day 19:
 - [✔️] [Github Repository Basics 9](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches)
 ### Day 20:
-- [⭕] []()
+- [⭕] [Github Repository Basics 10](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets)
 ### Day 21:
 - [⭕] []()
 ## Week 4 ():
