@@ -63,10 +63,10 @@ Started: 28th July 2024
 ### Day 20:
 - [✔️] [Github Repository Basics 10](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets)
 ### Day 21:
-- [⭕] [Github Repository Basics 10](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets)
+- [✔️] [Github Repository Basics 10](https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-rulesets)
 ## Week 4 ():
 ### Day 22:
-- [⭕] []()
+- [⭕] [Github Repository Basics 11](https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github)
 ### Day 23:
 - [⭕] []()
 ### Day 24:
