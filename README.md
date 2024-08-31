@@ -70,9 +70,9 @@ Started: 28th July 2024
 ### Day 23:
 - [✔️] [Github Repository Basics 12](https://docs.github.com/en/repositories/working-with-files/managing-large-files)
 ### Day 24:
-- [⭕] [Github Repository Basics 13](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository)
+- [✔️] [Github Repository Basics 13](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository)
 ### Day 25:
-- [⭕] []()
+- [⭕] Practiced Repository Basics
 ### Day 26:
 - [⭕] []()
 ### Day 27:
