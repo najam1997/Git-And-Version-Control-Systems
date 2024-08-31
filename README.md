@@ -71,14 +71,8 @@ Started: 28th July 2024
 - [✔️] [Github Repository Basics 12](https://docs.github.com/en/repositories/working-with-files/managing-large-files)
 ### Day 24:
 - [✔️] [Github Repository Basics 13](https://docs.github.com/en/repositories/viewing-activity-and-data-for-your-repository)
-### Day 25:
-- [⭕] Practiced Repository Basics
-### Day 26:
-- [⭕] []()
-### Day 27:
-- [⭕] []()
-### Day 28:
-- [⭕] []()
+### Day 25 to 28:
+- [✔️] Practiced Repository Basics
 ## Week 5 ():
 ### Day 29:
 - [⭕] []()
