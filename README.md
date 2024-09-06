@@ -74,10 +74,8 @@ Started: 28th July 2024
 ### Day 25 to 28:
 - [✔️] Practiced Repository Basics
 ## Week 5 ():
-### Day 29 to 31:
-- [⭕] Completed [Pull Requests](https://docs.github.com/en/pull-requests)
-### Day 32:
-- [⭕] []()
+### Day 29 to 32:
+- [✔️] Completed [Pull Requests](https://docs.github.com/en/pull-requests)
 ### Day 33:
 - [⭕] []()
 ### Day 34:
