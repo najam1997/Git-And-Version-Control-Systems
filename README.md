@@ -79,10 +79,8 @@ Started: 28th July 2024
 ### Day 33:
 - [✔️] Testing Pull Requests on Gitlab to compare with Github       
      ◻️: The purpose for this was to check for added and/or subtracted functionality on each VCS.
-### Day 34:
-- [⭕] Started [Codespaces](https://docs.github.com/en/codespaces)
-### Day 35:
-- [⭕] []()
+### Day 34 and 35:
+- [✔️] Started [Codespaces](https://docs.github.com/en/codespaces)
 ## Week 6 ():
 ### Day 36:
 ### Day 37:
