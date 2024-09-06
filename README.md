@@ -77,7 +77,8 @@ Started: 28th July 2024
 ### Day 29 to 32:
 - [✔️] Completed [Pull Requests](https://docs.github.com/en/pull-requests)
 ### Day 33:
-- [✔️] Testing Pull Requests on Gitlab to compare with Github
+- [✔️] Testing Pull Requests on Gitlab to compare with Github       
+     ◻️: The purpose for this was to check for added and/or subtracted functionality on each VCS.
 ### Day 34:
 - [⭕] []()
 ### Day 35:
