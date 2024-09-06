@@ -80,7 +80,7 @@ Started: 28th July 2024
 - [✔️] Testing Pull Requests on Gitlab to compare with Github       
      ◻️: The purpose for this was to check for added and/or subtracted functionality on each VCS.
 ### Day 34:
-- [⭕] []()
+- [⭕] Started [Codespaces](https://docs.github.com/en/codespaces)
 ### Day 35:
 - [⭕] []()
 ## Week 6 ():
