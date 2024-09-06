@@ -77,7 +77,7 @@ Started: 28th July 2024
 ### Day 29 to 32:
 - [✔️] Completed [Pull Requests](https://docs.github.com/en/pull-requests)
 ### Day 33:
-- [⭕] Testing Pull Requests on Gitlab[]()
+- [✔️] Testing Pull Requests on Gitlab to compare with Github
 ### Day 34:
 - [⭕] []()
 ### Day 35:
