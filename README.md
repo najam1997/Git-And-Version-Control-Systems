@@ -86,3 +86,4 @@ Started: 28th July 2024
 - [✔️] Completed Developing in a Codespace and Customizing your codespace.
 ### Day 40:
 ### Day 41:
+### Day 42:
