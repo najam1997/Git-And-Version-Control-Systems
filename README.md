@@ -82,9 +82,7 @@ Started: 28th July 2024
 ### Day 34 and 35:
 - [✔️] Started [Codespaces](https://docs.github.com/en/codespaces)
 ## Week 6 ():
-### Day 36:
-### Day 37:
-### Day 38:
-### Day 39:
+### Day 36 to 39:
+- [✔️] Completed Developing in a Codespace and Customizing your codespace.
 ### Day 40:
 ### Day 41:
