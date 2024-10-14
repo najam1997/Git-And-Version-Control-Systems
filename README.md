@@ -84,11 +84,8 @@ Started: 28th July 2024
 ## Week 6 ():
 ### Day 36 to 39:
 - [✔️] Completed Developing in a Codespace and Customizing your codespace.
-### Day 40:
-### Day 41:
-### Day 42:
+### Days 40 to 42:
+- [⭕]
 ## Week 7 ():
-### Day 43:
-### Day 44:
-### Day 45:
-### Day 46:
+### Days 43 to 47:
+- [⭕]
