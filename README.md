@@ -87,5 +87,5 @@ Started: 28th July 2024
 ### Days 40 to 42:
 - [⭕]
 ## Week 7 ():
-### Days 43 to 47:
+### Days 43 to 48:
 - [⭕]
